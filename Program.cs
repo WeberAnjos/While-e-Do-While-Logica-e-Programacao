@@ -13,7 +13,7 @@ namespace Atividade_While_e_Do_while
 
             // Questão 1
 
-            //char caract;
+            char caract;
 
             do
             {
@@ -133,4 +133,5 @@ namespace Atividade_While_e_Do_while
         }
     }
 }
+
 

@@ -15,19 +15,19 @@ namespace Atividade_While_e_Do_while
 
             //char caract;
 
-            /*do
+            do
             {
                 Console.Write("Digite um caracter: ");
                 caract = Console.ReadKey().KeyChar;
             } while (caract != 's');
 
-            Console.ReadKey();*/
+            Console.ReadKey();
 
 
             // Questão 2
 
 
-            /* string nome;
+            string nome;
             int quant;
             int cont = 1;
             int contCem = 1;
@@ -51,13 +51,13 @@ namespace Atividade_While_e_Do_while
 
             Console.Write("A quantidade de produtos que custam acima de R$100 é de: " + contCem);
 
-            Console.ReadKey(); */
+            Console.ReadKey();
 
 
             // Questão 3
 
 
-            /*int cont = 0;
+            int cont = 0;
             int parar;
             int cont36 = 0;
             int cont38 = 0;
@@ -100,12 +100,12 @@ namespace Atividade_While_e_Do_while
 
             Console.Write("");
 
-            Console.ReadKey(); */
+            Console.ReadKey(); 
 
             // Questão 4
 
 
-            /*double parar;
+            double parar;
             double cont17 = 0;
             double cont18 = 0;
 
@@ -129,10 +129,8 @@ namespace Atividade_While_e_Do_while
             Console.WriteLine("altura superior a 1.70: " + cont17);
             Console.WriteLine("altura  menor que 1.80: " + cont18);
 
-            Console.ReadKey(); */
-
+            Console.ReadKey();
         }
-
-
     }
 }
+
